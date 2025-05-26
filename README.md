@@ -1,4 +1,4 @@
-# 💻 Christofer Washington
+# 💻 Chris
 
 Hey! 👋 I'm Christofer but everyone calls me Chris — A cybersecurity student at WGU, IT enthusiast, and aspiring professional dedicated to helping people and businesses stay safe in the digital world.
 
