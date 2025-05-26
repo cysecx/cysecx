@@ -1,16 +1,42 @@
-## Hi there 👋
+# 💻 Christofer Washington
 
-<!--
-**cysecx/cysecx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Hi there! 👋 I'm Christofer Washington — a cybersecurity student at WGU, IT enthusiast, and aspiring professional dedicated to helping people and businesses stay safe in the digital world.
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👨‍💻 About Me
+
+- 🎓 Studying Cybersecurity at Western Governors University (WGU)
+- 📚 Previously earned certifications in IT Support from Google and FSCJ
+- 🔐 Passionate about protecting people, privacy, and organizations from cyber threats
+- 🧰 Active homelabber: running Proxmox, UniFi, DNS, and self-hosted services
+- 🛠️ Currently learning Python, system hardening, and network defense
+- 🎯 Career goals: Blue team operations, cloud security, and infrastructure protection
+
+---
+
+## 🧠 Interests
+
+- 🔧 Building and securing local infrastructure (servers, DNS, reverse proxies)
+- 🐧 Working with Linux, bash scripting, and automation tools
+- 🔍 Vulnerability testing, patching, and endpoint hardening
+- 📡 Learning about firewalls, SIEM, and threat detection
+- 🎮 Gaming enthusiast & data privacy advocate
+
+---
+
+## 🚀 Projects
+
+- 🏠 Home lab setup using Proxmox, Unifi, and DNSMasq
+
+---
+
+## 📫 Let's Connect
+
+- 🌐 [Personal Website](https://cmcneil.com) *(Work in progress - domain changing)*
+- 💼 [LinkedIn](https://www.linkedin.com/in/christofer-washington)
+
+---
+
+> “Technology should empower people and cybersecurity is how we keep that power safe.”
+
