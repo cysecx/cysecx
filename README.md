@@ -1,51 +1,85 @@
-# 💻 Chris
+# 🔐 Christofer Washington
 
-Hey! 👋 I'm Christofer but everyone calls me Chris — A cybersecurity student at WGU, IT enthusiast, and aspiring professional dedicated to helping people and businesses stay safe in the digital world.
+Cybersecurity student at WGU, IT practitioner, and homelab builder focused on securing systems, strengthening infrastructure, and supporting resilient operations.
 
 ---
 
 ## 👨‍💻 About Me
 
-- 🎓 Studying Cybersecurity at Western Governors University (WGU)
-- 📚 Previously earned certifications in IT Support from Google and FSCJ
-- 🔐 Passionate about protecting people, privacy, and organizations from cyber threats
-- 🧰 Active homelabber: running Proxmox, UniFi, DNS, and self-hosted services
-- 🛠️ Currently learning Python, system hardening, and network defense
-- 🎯 Career goals: Blue team operations, cloud security, and infrastructure protection
+* 🎓 **Cybersecurity student at Western Governors University (WGU)**
+* 🛡️ Experienced in **IT support, system administration, and security fundamentals**
+* 🧰 **Active homelab environment** using Proxmox, UniFi, DNS, monitoring, and self-hosted services
+* 🐍 Developing skills in **Python, system hardening, secure configuration, and network defense**
+* 🎯 Professional path: **Blue Team operations, cloud security, endpoint protection, and infrastructure defense**
 
 ---
 
-## 🧠 Interests
+## 🧠 Technical Interests
 
-- 🔧 Building and securing local infrastructure (servers, DNS, reverse proxies)
-- 🐧 Working with Linux, bash scripting, and automation tools
-- 🔍 Vulnerability testing, patching, and endpoint hardening
-- 📡 Learning about firewalls, SIEM, and threat detection
-- 🎮 Gaming enthusiast & data privacy advocate
+* 🔧 Securing and automating on-prem infrastructure
+* 🐧 Linux administration and Bash scripting
+* 🔍 Vulnerability scanning, patch management, log analysis, and endpoint hardening
+* 📡 Firewalls (pfSense/UniFi), IDS/IPS, SIEM, and threat detection
+* 🔒 Identity security, MFA, and access control
 
 ---
 
 ## 🚀 Projects
 
-- 🏠 Home lab setup using Proxmox, Unifi, and DNSMasq
+### 🏠 Homelab Security Architecture
+
+* Proxmox virtualization
+* Segmented UniFi networking
+* Secure DNS setup
+* Monitoring and alerting stack
+
+*(Additional projects will be added soon as they are published.)*
 
 ---
 
-## 🔒 Certifications
+## 📛 Badges
+![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1F24?logo=comptia&logoColor=white)
+![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA1F24?logo=comptia&logoColor=white)
+![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1F24?logo=comptia&logoColor=white)
+![ITIL v4](https://img.shields.io/badge/ITIL-v4%20Foundation-5C2D91?logo=azuredevops&logoColor=white)
 
-✅CompTIA A+
-✅CompTIA Network+
-✅CompTIA Security+
-✅ITIL v4
+
+### 🧰 Tools & Platforms
+
+![Linux](https://img.shields.io/badge/Linux-000?logo=linux\&logoColor=white)
+![Proxmox](https://img.shields.io/badge/Proxmox-E57000?logo=proxmox\&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker\&logoColor=white)
+![UniFi](https://img.shields.io/badge/Ubiquiti-0559C9?logo=ubiquiti\&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?logo=git\&logoColor=white)
+
+### 🧪 Security & Networking
+
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?logo=wireshark\&logoColor=white)
+![Nmap](https://img.shields.io/badge/Nmap-004B87?logo=nmap\&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?logo=pfsense\&logoColor=white)
+
+### 💻 Languages
+
+![Python](https://img.shields.io/badge/Python-3776AB?logo=python\&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?logo=gnubash\&logoColor=white)
+![SQL](https://img.shields.io/badge/SQL-003B57)
 
 ---
 
-## 📫 Let's Connect
+## 🎓 Certifications
 
-- 🌐 [Personal Website](https://cmcneil.com) *(Work in progress - domain changing)*
-- 💼 [LinkedIn](https://www.linkedin.com/in/christofer-washington)
+* 📜 **CompTIA A+**
+* 📜 **CompTIA Network+**
+* 📜 **CompTIA Security+**
+* 📜 **ITIL v4 Foundation**
 
 ---
 
-> “Technology should empower people and cybersecurity is how we keep that power safe.”
+## 📫 Connect With Me
 
+* 💼 LinkedIn: [Christofer Washington](https://www.linkedin.com/in/christofer-washington)
+* 🌐 Personal Website: *Coming soon (domain update in progress)*
+
+---
+
+> "Cybersecurity isn’t only about defense—it’s about ensuring technology remains secure, reliable, and empowering."
