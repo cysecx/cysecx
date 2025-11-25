@@ -31,6 +31,15 @@ Hey! 👋 I'm Christofer but everyone calls me Chris — A cybersecurity student
 
 ---
 
+## 🔒 Certifications
+
+✅CompTIA A+
+✅CompTIA Network+
+✅CompTIA Security+
+✅ITIL v4
+
+---
+
 ## 📫 Let's Connect
 
 - 🌐 [Personal Website](https://cmcneil.com) *(Work in progress - domain changing)*
