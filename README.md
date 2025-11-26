@@ -32,6 +32,8 @@ Cybersecurity student at WGU, IT practitioner, and homelab builder focused on se
 * Segmented UniFi networking
 * Secure DNS setup
 * Monitoring and alerting stack
+* [Proxmox Update Automation](https://github.com/cysecx/proxmox-updater-v2)
+Python-based automation script for system updates, email logs, cron jobs, and GitHub Actions.
 
 *(Additional projects will be added soon as they are published.)*
 
@@ -65,7 +67,6 @@ Cybersecurity student at WGU, IT practitioner, and homelab builder focused on se
 ![SQL](https://img.shields.io/badge/SQL-003B57)
 
 ---
-
 ## 🎓 Certifications
 
 * 📜 **CompTIA A+**
