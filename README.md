@@ -79,7 +79,7 @@ Python-based automation script for system updates, email logs, cron jobs, and Gi
 ## 📫 Connect With Me
 
 * 💼 LinkedIn: [Christofer Washington](https://www.linkedin.com/in/christofer-washington)
-* 🌐 Personal Website: *Coming soon (domain update in progress)*
+* 🌐 Personal Website: https://cmcneil.com *Coming soon (domain update in progress)*
 
 ---
 
