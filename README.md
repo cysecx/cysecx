@@ -36,6 +36,8 @@ Cybersecurity student at WGU, IT practitioner, and homelab builder focused on se
 Python-based automation script for system updates, email logs, cron jobs, and GitHub Actions.
 * [ipSweep](https://github.com/cysecx/ipsweep)
 Scans all IP addresses in use on the network.
+* [ipsweep-ports](https://github.com/cysecx/ipsweep-ports)
+  Scans all ips on /24 subnet and active ports.
 
 *(Additional projects will be added soon as they are published.)*
 
