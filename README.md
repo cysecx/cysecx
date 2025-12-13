@@ -33,6 +33,7 @@ Cybersecurity student at WGU, IT practitioner, and homelab builder focused on se
 * Secure DNS setup
 * Monitoring and alerting stack
 * [Proxmox Update Automation](https://github.com/cysecx/proxmox-updater-v2)
+* ipSweep (https://github.com/cysecx/ipsweep)
 Python-based automation script for system updates, email logs, cron jobs, and GitHub Actions.
 
 *(Additional projects will be added soon as they are published.)*
