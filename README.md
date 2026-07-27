@@ -22,7 +22,7 @@ Feel free to explore my projects below to see how I apply practical security con
 
 [x]: https://x.com/Cybersecxx
 [linkedin]: https://www.linkedin.com/in/christofer-washington/
-
+#
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
