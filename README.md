@@ -104,13 +104,7 @@ Scans all IP addresses in use on the network.
 * 📜 **CompTIA Network+**
 * 📜 **CompTIA Security+**
 * 📜 **ITIL v4 Foundation**
-
----
-
-## 📫 Connect With Me
-
-* 💼 LinkedIn: [Christofer Washington](https://www.linkedin.com/in/christofer-washington)
-* 🌐 Personal Website: https://cmcneil.com *Coming soon (domain update in progress)*
+* 📜 **CompTIA CySA+**
 
 ---
 
