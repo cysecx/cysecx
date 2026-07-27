@@ -1,7 +1,34 @@
-# 🔐 Christofer Washington
+# <a href="https://www.linkedin.com/in/christofer-washington/">Christofer Washington</a>'s IT and Cybersecurity Project Portfolio 🔐
 
-Cybersecurity student at WGU, IT practitioner, and homelab builder focused on securing systems, strengthening infrastructure, and supporting resilient operations.
+I am a Cybersecurity student at WGU, an IT practitioner, and an avid homelab builder dedicated to securing systems, strengthening infrastructure, and driving resilient operations. I thrive on tackling complex challenges hands-on—from vulnerability management to active threat detection.
 
+Feel free to explore my projects below to see how I apply practical security concepts and continuously enhance security operations!
+
+## ⚠️ Vulnerability Management Projects
+
+- **[Vulnerability Management Program Implementation](https://github.com/joshcybertest/vulnerability-management-program)**
+- **[Programmatic Vulnerability Remediations (PowerShell, BASH, & Shell Commands)](https://github.com/joshcybertest/programmatic-vulnerability-remediations)**
+
+## 🚨 Threat Hunting and Security Operations
+
+- **[Threat Hunting Scenario (Tor Browser Usage)](https://github.com/joshmadakor0/threat-hunting-scenario-tor)**
+
+<hr/>
+
+## 🤳 Connect With Me
+
+[<img align="left" alt="___________ | YouTube" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />][youtube]
+[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="___________ | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
+
+[twitter]: https://twitter.com/___________
+[linkedin]: https://linkedin.com/in/___________
+
+<!--
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
+<img width="35" alt="image" src="https://github.com/user-attachments/assets/77649969-9910-4994-8b96-74a116cfb2a8">
+-->
 ---
 
 ## 👨‍💻 About Me
