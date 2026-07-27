@@ -44,6 +44,7 @@ Scans all IP addresses in use on the network.
 ---
 
 ## 📛 Badges
+![CompTIA CySA+](https://img.shields.io/badge/CompTIA-CySA%2B-EA1F24?logo=comptia&logoColor=white)
 ![CompTIA A+](https://img.shields.io/badge/CompTIA-A%2B-EA1F24?logo=comptia&logoColor=white)
 ![CompTIA Network+](https://img.shields.io/badge/CompTIA-Network%2B-EA1F24?logo=comptia&logoColor=white)
 ![CompTIA Security+](https://img.shields.io/badge/CompTIA-Security%2B-EA1F24?logo=comptia&logoColor=white)
