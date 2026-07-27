@@ -17,8 +17,8 @@ Feel free to explore my projects below to see how I apply practical security con
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/x.svg" />][x]
-[<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
+[<img align="left" alt="Chris | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/x.svg" />][x]
+[<img align="left" alt="Chris | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
 [x]: https://x.com/Cybersecxx
 [linkedin]: https://www.linkedin.com/in/christofer-washington/
