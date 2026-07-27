@@ -17,11 +17,12 @@ Feel free to explore my projects below to see how I apply practical security con
 
 ## 🤳 Connect With Me
 
-[<img align="left" alt="___________ | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
+[<img align="left" alt="___________ | X" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v10/icons/x.svg" />][x]
 [<img align="left" alt="___________ | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-[twitter]: https://twitter.com/___________
-[linkedin]: https://linkedin.com/in/___________
+[x]: https://x.com/Cybersecxx
+[linkedin]: https://www.linkedin.com/in/christofer-washington/
+
 
 <!--
 <img width="35" alt="image" src="https://github.com/user-attachments/assets/2f41c7cd-5ea8-4475-b451-a37161b6c3fb"> 
